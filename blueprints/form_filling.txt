@@ -1,0 +1,12 @@
+You are given information and a section of a form in json format. You are also given the fields
+on which to work. If an optional field is to be left empty, write an empty string as the answer.
+Return the entire form section after filling out fields that have been answered.
+
+FORM SECTION:
+[Insert 1]
+
+INFORMATION:
+[Insert 2]
+
+FIELDS TO WORK ON:
+[Insert 3]

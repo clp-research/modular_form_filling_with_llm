@@ -1,0 +1,12 @@
+Please generate a question. 
+The answer to the question will be used to fill out empty fields of the given FORM. 
+Try to ask about multiple fields in a single question if they are related.
+Give all possible Options if they are limited by the FORM. 
+Only fields with an "answer" attribute can be filled out. 
+Only ask for fields where the answer has not been given.
+An empty string as an answer to a field that is not required means that this field is to be left empty.
+Also specify which fields the question is targeted towards by listing the field names.
+Your output must have the following format: {"question": "", "fields": []}
+
+FORM:
+[Insert 1]

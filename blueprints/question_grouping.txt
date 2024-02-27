@@ -1,0 +1,10 @@
+You are given a number of summaries which need to be grouped by their semantic commonalities. 
+The summaries are given in the following format {"name": "summary"}.
+Each summary needs to be grouped and each group contains at most 5 summaries. 
+Choose group names based on the semantic commonalities of the summaries.
+The output has the following format: 
+{"first group name": list of summary names in that group e.g. ["name of summary 3", "name of summary 2"], "second group name": list of its members e.g. ["name of summary 5"]}. 
+Only output the groups with their members without any explanation or additional information. 
+
+SUMMARIES:
+[Insert]

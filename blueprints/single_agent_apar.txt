@@ -1,0 +1,10 @@
+Given the following ANSWER, you can do one of the following actions:
+
+1. follow_up: Ask another question to get more information.
+2. fill_form: use the answer to fill out fields in the form.
+3. stop: stops the filling of the form. Only call this once all required fields have been filled.
+
+Choose the appropriate option and output your choice in the following format: {"next action": ""}.
+
+ANSWER:
+[Insert 1]

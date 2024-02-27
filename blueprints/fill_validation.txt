@@ -1,0 +1,9 @@
+You are given a FORM SECTION and some INFORMATION. Please make sure that the FORM SECTION
+has been filled out correctly, based on the given INFORMATION. Make any changes nessecary to
+the FORM SECTION (if any) and return the entire FORM SECTION including your adjustments.
+
+FORM SECTION:
+[Insert 1]
+
+INFORMATION:
+[Insert 2]

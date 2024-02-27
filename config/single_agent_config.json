@@ -1,0 +1,11 @@
+{
+    "model": "gpt",
+    "form": "epa",
+    "server_addr": "127.0.0.1",
+    "server_port": "5000",
+    "autouser": true,
+    "num_dialogues": 10,
+    "temperature": 0,
+    "base temp": 0.1,
+    "high temp": 0.6
+}

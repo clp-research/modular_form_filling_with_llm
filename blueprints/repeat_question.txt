@@ -1,0 +1,17 @@
+You are given a short dialogue and the last answer did not match what was expected. 
+You are also given the form section, which the dialogue is based on. Your task is to 
+write a new question that asks for the same information but also specifies what was
+wrong with the previous answer and nudges the User towards giving a better answer. 
+Only return the filled out return form and nothing else.
+
+RETURN FORM:
+{"new question": ""}
+
+DIALOGUE:
+[Insert 1]
+
+INFORMATION TO BE EXTRACTED:
+[Insert 2]
+
+FORM SECTION:
+[Insert 3]

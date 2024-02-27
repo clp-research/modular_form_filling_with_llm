@@ -1,0 +1,98 @@
+{
+    "Suspected Violator's Name": {
+        "type": "text-field",
+        "required": true,
+        "info": "Enter name or \"Unknown\"",
+        "answer": null
+    },
+    "Suspected Violation Location": {
+        "type": "text-field",
+        "required": true,
+        "info": "Enter Address or \"Unknown\"",
+        "answer": null
+    },
+    "Suspected Violation City": {
+        "type": "text-field",
+        "required": true,
+        "info": "Enter City or \"Unknown\"",
+        "answer": null
+    },
+    "Suspected Violation State": {
+        "type": "text-field",
+        "required": true,
+        "info": "Enter any US State or \"Unknown\"",
+        "answer": null
+    },
+    "Suspected Violation ZIP Code": {
+        "type": "text-field",
+        "required": true,
+        "info": "Enter valid Zip or \"Unknown\"",
+        "answer": null
+    },
+    "Responsible Party": {
+        "type": "checkbox",
+        "required": true,
+        "options": ["Individual", "Company", "Government/Military", "Unknown"],
+        "answer": null
+    },
+    "Is the suspected Violation still occurring?": {
+        "type": "checkbox",
+        "required": true,
+        "options": ["yes", "no"],
+        "answer": null
+    },
+    "Date of incident": {
+        "type": "text-field",
+        "required": true,
+        "info": "Enter date in DD.MM.YYYY format",
+        "answer": null
+    },
+    "Is this an emergency?": {
+        "type": "checkbox",
+        "required": true,
+        "options": ["yes", "no"],
+        "answer": null
+    },
+    "Intention": {
+        "type": "checkbox",
+        "required": true,
+        "options": ["Accidental", "Intentional", "Unknown"],
+        "answer": null
+    },
+    "Violation Method": {
+        "type": "checkbox",
+        "required": true,
+        "options": ["Release", "Dump/Buried", "Spill", "Spray", "Fill", "Falsified"],
+        "answer": null
+    },
+    "Affected Subject(s)": {
+        "type": "multi-choice",
+        "required": true,
+        "options": ["Land", "Water", "Air", "Worker", "Documents"],
+        "answer": null
+    },
+    "Violation Description": {
+        "type": "text-field",
+        "required": true,
+        "info": "Include a detailed description of the violation. For example, gas drilling, drum dumping etc. If necessary, include specific directions.",
+        "answer": null
+    },
+    "Reporter Contact Information": {
+        "info": "You are not required to provide your contact information but the EPA might want to reach out to you for additional information.",
+        "Your Name": {
+            "type": "text-field",
+            "required": false,
+            "answer": null
+        },
+        "Your Email": {
+            "type": "text-field",
+            "required": false,
+            "answer": null
+        },
+        "Your Phone Number": {
+            "type": "text-field",
+            "required": false,
+            "answer": null
+        }
+    }
+}
