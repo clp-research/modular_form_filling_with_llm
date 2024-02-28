@@ -7,8 +7,8 @@ This is the official Git repository page for the paper:
 > Hakimov, S., Weiser, Y., and Schlangen, D., (2023).  Evaluating Modular Dialogue System for Form Filling Using Large Language Models. Proceedings of the Workshop on Simulation of Conversational Intelligence in Chat (SCI-CHAT) at EACL 2024 [PDF](https://clp.ling.uni-potsdam.de/publications/Hakimov-2024.pdf)
 
 
-This repository contains the code to run the system described in [paper](link_to_paper). 
-The System was tested in a Linux environment with Python 3.8+ and a single Nvidia A100 (80GB) GPU.
+This repository contains the code to run the system described in the paper. 
+The system was tested in a Linux environment with Python 3.8+ and a single Nvidia A100 (80GB) GPU.
 
 ## Using the System
 
