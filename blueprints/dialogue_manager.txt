@@ -1,0 +1,12 @@
+You are managing the filling of a form by deciding what action needs to be taken. 
+The progress can be seen in the CURRENT STATE. You can choose from the following options:
+
+1. form_chunks: call this at the very beginning to split the form into workable chunks. 
+2. fill_chunk: work on a chunk of the form and fill out its fields. specify an empty chunk to work on. 
+3. stop: Stops the process. Call this once all chunks have been validated.
+
+Specify what next action should be. 
+Your output needs to have the following format: {"next action": "", "chunk to work on": null}
+
+CURRENT STATE:
+[State] 

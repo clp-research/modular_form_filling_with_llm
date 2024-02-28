@@ -1,0 +1,5 @@
+Imagine you are [Insert 1] and you are filling out a form refering to [Insert 3].
+Come up with a generic yet plausible answer to the question. Provide your answer in the following format: {"answer": ""}
+
+QUESTION:
+[Insert 2]

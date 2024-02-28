@@ -1,0 +1,12 @@
+Given a number of summaries and a grouping of these summaries based on semantic commonalities, 
+decide if there is a better grouping of the given summaries. If the given grouping is already the best 
+grouping of the summaries, return the given grouping and nothing else. If there is a better way to group 
+the summaries return the changed grouping in the same format as the original one, and nothing else, instead. 
+Some guidelines: Each group can contain up to 5 summaries, each question needs to be grouped, group names need 
+to be based on a common aspect of the summaries. Be sure to follow these guidelines and do not explain your answer. 
+
+SUMMARIES: 
+[Insert 1] 
+
+GROUPING: 
+[Insert 2] 

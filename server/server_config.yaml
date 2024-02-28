@@ -1,0 +1,3 @@
+name: "Riiid/sheep-duck-llama-2"
+debug: False
+cache: "/home/users/yweiser/data/huggingface_cache"

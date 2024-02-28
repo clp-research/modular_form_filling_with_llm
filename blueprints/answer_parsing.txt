@@ -1,0 +1,17 @@
+The given DIALOGUE has the goal to fill out the given FORM. You need to decide what Option should be taken next.
+Your options for next actions are:
+
+1. "information_extraction": Choose this action if the given answer contains all the necessary information.
+2. "follow_up_question": Choose this if the given answer is invalid or only covers part of the necessary information.
+3. "repeat_question": Choose this if the User asked for clarification or did not answer the question at all. 
+
+Give your output in the following format: {"next action": ""}
+
+DIALOGUE:
+[Insert 1]
+
+INFORMATION TO EXTRACT:
+[Insert 3]
+
+FORM:
+[Insert 2]

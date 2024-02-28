@@ -1,0 +1,7 @@
+You are given a short DIALOGUE. Extract information as facts about the topic discussed in the given DIALOGUE.
+The information needs to be stored as key, value pairs of strings of text and no other forms of data structures.
+Your output should have the following format: {"key": "value", ...} for example an acceptable output would be
+{"day of the week": "monday", "car": "corvette"}
+
+DIALOGUE:
+[Insert 2]

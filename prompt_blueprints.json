@@ -1,0 +1,14 @@
+{
+    "dialogue_manager": "dialogue_manager.txt",
+    "question_extraction": "question_extraction.txt",
+    "question_grouping": "question_grouping.txt",
+    "grouping_validation": "grouping_validation.txt",
+    "question_generation": "question_generation.txt",
+    "answer_parsing": "answer_parsing.txt",
+    "form_filling": "form_filling.txt",
+    "fill_validation": "fill_validation.txt",
+    "chunk_filling": "chunk_filling.txt",
+    "repeat_question": "repeat_question.txt",
+    "information_extraction": "information_extraction.txt",
+    "follow_up_question": "follow_up_question.txt"
+}

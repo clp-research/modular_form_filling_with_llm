@@ -1,0 +1,7 @@
+You are given a section from a form in json format and are asked to summarize it into a single sentence. 
+The section might contain multiple fields, all of which need to be part of the summary sentence. Be sure 
+to mention if the field in the section relies on another field. 
+Your output should follow the following format: {"summary": ""}
+
+GIVEN SECTION: 
+[Insert] 

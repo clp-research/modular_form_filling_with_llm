@@ -1,0 +1,14 @@
+You are managing the filling of a form. Based on the CURRENT STATE, decide which of the following actions should be taken:
+
+1. "question_generation": Ask a question in order to fill out empty fields.
+2. "fill_validation": validate fields that have been answered.
+3. "stop": stops the filling of this form, call this once all fields are validated.
+
+The CURRENT STATE gives you information about every field in the form. Fields can be "empty", "answered" or "validated". 
+Only return the filled out RETURN FORM and nothing else. The output needs to have the format of the RETURN FORM.
+
+RETURN  FORM:
+{"next action": ""}
+
+CURRENT STATE:
+[State]
